@@ -9,8 +9,8 @@ st.write('st.write')
 st.write('helllo, *world!* : sunglasses:')  # 接受markdown格式用write输出
 # st.markdown('helllo, *world!* :sunglasses:')
 
-# 样式2——数值类型特殊格式
-st.write(1234)
+# # 样式2——数值类型特殊格式
+# st.write(1234)
 
 # 样式3——python数据框dataframe显示为表格
 df = pd.DataFrame({
